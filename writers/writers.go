@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stack-99/GOCW/ssh_honeypot/writers/colors"
+	"github.com/stack-99/honeypot/writers/colors"
 )
 
 // Write print text with a cool "animation" like a hacker
