@@ -1,4 +1,4 @@
-module github.com/stack-99/honeypot/ssh_honeypot
+module github.com/stack-99/honeypot
 
 go 1.19
 

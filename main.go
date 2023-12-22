@@ -12,8 +12,8 @@ import (
 
 	"github.com/gliderlabs/ssh"
 	"github.com/spf13/viper"
-	"github.com/stack-99/honeypot/ssh_honeypot/writers"
-	"github.com/stack-99/honeypot/ssh_honeypot/writers/colors"
+	"github.com/stack-99/honeypot/writers"
+	"github.com/stack-99/honeypot/writers/colors"
 	gossh "golang.org/x/crypto/ssh"
 	"golang.org/x/term"
 )
